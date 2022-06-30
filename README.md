@@ -1,2 +1,2 @@
 # ScoreKeeper
-Very simple ScoreKeeper using HTML, CSS, JavaScript
+Very simple ScoreKeeper using HTML, CSS, JavaScript.
